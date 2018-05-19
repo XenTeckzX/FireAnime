@@ -1,0 +1,9 @@
+#Privacy Policy
+Fire Anime is an Android Application that collects Anime links from 3rd Party sites and lets users view content from those links. I do not host or have access to any of the anime that is posted on these 3rd party sites.
+
+This app is 100% free and I do not charge to use this Application.
+
+#Changes to This Privacy Policy
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
