@@ -1,8 +1,14 @@
 # FireAnime
 An android app that allows you to Stream anime from 9anime Ad-Free
 <h4>This app has been specifically designed for Android TV’s only and will not work on Phones or Tablets</h4>
-<a href='https://postimg.cc/image/c8c6xljsr/' target='_blank'><img src='https://s9.postimg.cc/bvksrf1j3/Showcase1.jpg' border='0' alt='Showcase1'/></a>
 
+# Download Application
+
+<a href="https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime.apk"><img src = "https://a2.fdlstatic.com/451/bundles/downloadcore/images/header/text-logo@2x.png"/>
+  
+# Application Images
+
+<a href='https://postimg.cc/image/c8c6xljsr/' target='_blank'><img src='https://s9.postimg.cc/bvksrf1j3/Showcase1.jpg' border='0' alt='Showcase1'/></a>
 <a href='https://postimages.org/' target='_blank'><img src='https://s9.postimg.cc/4gvgyxd1r/Showcase_Episodes.jpg' border='0' alt='Showcase_Episodes'/></a>
 
 # Features
