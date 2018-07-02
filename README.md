@@ -33,7 +33,6 @@ An android app that allows you to Stream anime from 9anime Ad-Free
 * This app also works on most Android TV devices but has not been tested so there might be bugs.
 
 * This application has been developed by only 1 person, so it might take longer to fix bugs and add new features.
-* Im also new to android development so don’t expect any miracles.
 
 # Credits
 * Libraries
