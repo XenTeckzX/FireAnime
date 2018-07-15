@@ -4,7 +4,7 @@ An android app that allows you to Stream anime from 9anime Ad-Free
 
 # Download Application
 
-<a href="https://github.com/XenTeckzX/FireAnime/raw/master/FireAnimeVersion1.4.apk"><img src = "https://a2.fdlstatic.com/451/bundles/downloadcore/images/header/text-logo@2x.png"/>
+<a href="https://github.com/XenTeckzX/FireAnime/raw/master/FireAnimeVersion1.5.apk"><img src = "https://a2.fdlstatic.com/451/bundles/downloadcore/images/header/text-logo@2x.png"/>
   
 # Application Images
 
