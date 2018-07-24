@@ -4,7 +4,7 @@ An App That Lets You Stream Anime
 
 # Download Application
 
-<a href="https://github.com/XenTeckzX/FireAnime/raw/master/FireAnimeVersion1.6.apk"><img src = "https://a2.fdlstatic.com/451/bundles/downloadcore/images/header/text-logo@2x.png"/>
+<a href="https://github.com/XenTeckzX/FireAnime/raw/master/FireAnimverVersion1.6.apk"><img src = "https://a2.fdlstatic.com/451/bundles/downloadcore/images/header/text-logo@2x.png"/>
   
 # Application Images
 
