@@ -8,6 +8,10 @@ The Anime that you have saved on your watch list is saved to your specific devic
 The only time this is exempt is when you make a specific search for an Anime as it searches the specific anime on a server which may be recorded by your ISP.
 
 <h2>Changes to This Privacy Policy</h2>
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+I may update the Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
-<h4>This app is 100% free and I do not charge to use this Application</h4>
+This application was made for the sole purpose of learning android devleopment.This app will be Terminated as soon as the goal has been achieved. The main reason the application is public is that it was the best way to get user feedback so that i can improve my skills at android development.
+
+If any legal entities have any issues with this please contact the main hosting sites, if they don't respond please contact me so that i can exclude that source from the application and if it is still such a big issue i will happly terminate the application.
+
+<h4>This app is 100% free and I do not charge to use this Application, I do not use ads on this application and i do not generate any profits from this app either by donations or ad revenue</h4>
