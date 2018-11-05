@@ -1,7 +1,7 @@
 # FireAnime
 An App That Lets You Stream Anime on Any Android TV,Fire Stick and Fire TV
 
-<a href= "https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime1.9.7.apk">Download Link</A>
+<a href= "https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime1.9.8.apk">Download Link</A>
 <h4>This app has been specifically designed for Android TV’s only and will not work on Phones or Tablets</h4>
 
 # Download Application
