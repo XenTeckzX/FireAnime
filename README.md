@@ -1,40 +1,27 @@
 # FireAnime
-An App That Lets You Stream Anime on Any Android TV,Fire Stick and Fire TV
+An Android App That Lets You Stream Anime on all Android TV’s, Nvidia Shield, Android Boxes, Fire Sticks and FireTv Devices
+<h4>This app has been specifically designed for the devices listed above and will not work on Phones or Tablets</h4>
+<h6>Checkout FireAnime Reddit Page For the latest Information >> <a href="https://www.reddit.com/r/FireAnime/"><img src = "https://alternative.me/icons2/reddit.png"/></h6>
 
-<a href= "https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime2.3.apk">Download Link</A>
-<h4>This app has been specifically designed for Android TV’s only and will not work on Phones or Tablets</h4>
-
-# Download Application
-
-<a href="https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime2.3.apk"><img src = "https://img.over-blog-kiwi.com/2/91/10/27/20180721/ob_6bee58_download-button-300x133.png"/>
-  
 # Application Images
-
-<a href='https://postimg.cc/image/c8c6xljsr/' target='_blank'><img src='https://s9.postimg.cc/bvksrf1j3/Showcase1.jpg' border='0' alt='Showcase1'/></a>
-<a href='https://postimages.org/' target='_blank'><img src='https://s9.postimg.cc/4gvgyxd1r/Showcase_Episodes.jpg' border='0' alt='Showcase_Episodes'/></a>
+[![Attempt-1-Small.jpg](https://i.postimg.cc/SscFXLYK/Attempt-1-Small.jpg)](https://postimg.cc/ZBYD2dck)
+[![pjimage.jpg](https://i.postimg.cc/XY2V3g9S/pjimage.jpg)](https://postimg.cc/5XCcSLPn)
 
 # Features
 
-* This Application is Free and 100% Ad Free
-* Main Ui page is Regularly updated with the Latest anime
-* Added a Save to watchlist button that allows you to add any anime to the watch list
-* Added a Watch list to allow you to view saved Anime
-* Added a search page that allows you to search Anime
-* Added a quality page that lets you select the quality of each episode (360p, 480p,720p,1080p)
-* The episode page updates every time you finish an episode and tells you which episode you have watched
-* Added hot keys for the Amazon Remote 
-* Fast-forward button = fast forward by 30 secs
-* Rewind button = rewind by 30 secs
-* Right D pad = fast-forward by 10 secs
-* Left D pad = rewind by 10 secs
-
-# Things you should know
-* FireAnime only requires one permission which is the internet permission to stream the anime.
+* This Application is Free and 100% Ad Free ✅
+* Main Ui page is Regularly updated with the Latest anime ✅
+* Added a Watch list to allow you to save anime ✅
+* Added a search page that allows you to search anime ✅
+* Added a multiple servers that you can use to stream anime ✅
+* Added a view all anime page that allows you to find new anime to watch ✅
+* Added an episode page that updates every time you finish an episode and tells you which episodes you have watched ✅
+* Added the ablitiy to use external players such as MxPlayer, VlcPlayer and any other player you have installed ✅
 * You need at least Android 5.0
-* This app works on all Amazon Devices and has been custom made to specifically support the Amazon Firestick’s (all versions).
-* This app also works on most Android TV devices but has not been tested so there might be bugs.
 
-* This application has been developed by only 1 person, so it might take longer to fix bugs and add new features.
+# Download Application
+<a href= "https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime2.3.apk">Download Link</A>
+<a href="https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime2.3.apk"><img src = "http://cata.bestwowaddons.com/wp-content/plugins/wpdm-download-button/images/download_buttons_06.png"/>
 
 # Credits
 * Libraries
@@ -43,5 +30,8 @@ An App That Lets You Stream Anime on Any Android TV,Fire Stick and Fire TV
 * Glide
 * Okhttp
 * JSOUP
-* App icon by 7ASE
-
+* 9Anime(Hosting)
+* GogoAnime(Hosting)
+* WatchCartoonsOnline(Hosting)
+* MasterAni(Hosting)
+* AnimeRhino(Hosting)
