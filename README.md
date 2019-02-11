@@ -1,7 +1,7 @@
 # FireAnime
 An Android App That Lets You Stream Anime on all Android TV’s, Nvidia Shield, Android Boxes, Fire Sticks and FireTv Devices
 <h4>This app has been specifically designed for the devices listed above and will not work on Phones or Tablets</h4>
-<h6>Checkout FireAnime Reddit Page For the latest Information >> <a href="https://www.reddit.com/r/FireAnime/"><img src = "https://alternative.me/icons2/reddit.png"/></h6>
+<h6>Checkout FireAnime Reddit Page For the latest Information</h6> <a href="https://www.reddit.com/r/FireAnime/"><img src = "https://alternative.me/icons2/reddit.png"/>
 
 # Application Images
 [![Attempt-1-Small.jpg](https://i.postimg.cc/SscFXLYK/Attempt-1-Small.jpg)](https://postimg.cc/ZBYD2dck)
@@ -20,8 +20,9 @@ An Android App That Lets You Stream Anime on all Android TV’s, Nvidia Shield, 
 * You need at least Android 5.0
 
 # Download Application
-<a href= "https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime2.3.apk">Download Link</A>
 <a href="https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime2.3.apk"><img src = "http://cata.bestwowaddons.com/wp-content/plugins/wpdm-download-button/images/download_buttons_06.png"/>
+  
+<a href= "https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime2.3.apk">Download Link</A> <br/>
 
 # Credits
 * Libraries
