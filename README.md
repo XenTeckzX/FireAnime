@@ -19,9 +19,9 @@ An Android App That Lets You Stream Anime On All Devices
 * You need at least Android 5.0
 
 # Download Application
-<a href="https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime3.1.7.1.apk"><img src = "http://cata.bestwowaddons.com/wp-content/plugins/wpdm-download-button/images/download_buttons_06.png"/>
+<a href="https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime3.1.7.2.apk"><img src = "http://cata.bestwowaddons.com/wp-content/plugins/wpdm-download-button/images/download_buttons_06.png"/>
   
-<a href= "https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime3.1.7.1.apk">Download Link</A> <br/>
+<a href= "https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime3.1.7.2.apk">Download Link</A> <br/>
 
 # Credits
 * Libraries
