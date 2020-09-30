@@ -11,6 +11,7 @@ This App scrapes links from various anime streaming websites and displays them i
   <img src="https://i.postimg.cc/mkvz6wCL/pjimage-42.jpg" width="400" /><img src="https://i.postimg.cc/VvpnP1Qc/pjimage-41.jpg" width="400" />
 
 </p>
+
 # Features
 * This Application is Free and 100% Ad Free ✅
 * Main Ui page is Regularly updated with the Latest anime ✅
