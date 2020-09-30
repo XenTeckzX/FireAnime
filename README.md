@@ -1,7 +1,7 @@
 # FireAnime Android TV/Android Mobile
 <h4>An Android App That Lets You Stream Anime On All Android Devices</h4>
 
-<a href="https://www.reddit.com/r/FireAnime/"><img src = "https://s.pngkit.com/png/small/0-7757_reddit-logo-reddit-icon-png.png" width="40"/><h9> Checkout FireAnime reddit page for the latest information </h9>
+<a href="https://www.reddit.com/r/FireAnime/"><img src = "https://s.pngkit.com/png/small/0-7757_reddit-logo-reddit-icon-png.png" width="40"/><h9> Checkout FireAnime's reddit page for the latest information </h9>
 
 # Android TV Images
 [![pjimage.jpg](https://i.postimg.cc/XY2V3g9S/pjimage.jpg)](https://postimg.cc/5XCcSLPn)
