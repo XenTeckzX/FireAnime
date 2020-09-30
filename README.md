@@ -1,5 +1,5 @@
 # FireAnime Android TV/Android Mobile Anime Streaming App
-<h4>An Android App That Lets You Stream Anime On All Android Devices</h4>
+This App scrapes links from various anime streaming websites and displays them in the App
 
 <a href="https://www.reddit.com/r/FireAnime/"><img src = "https://s.pngkit.com/png/small/0-7757_reddit-logo-reddit-icon-png.png" width="40"/><h9> Checkout FireAnime's reddit page for the latest information </h9>
 
