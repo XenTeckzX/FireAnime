@@ -1,1 +1,1 @@
-{"gogoanimeUrl": "https://www.gogoanime.movie/"}
+{"gogoanimeUrl": "https://www.gogoanime.so/"}
