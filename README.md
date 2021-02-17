@@ -24,9 +24,9 @@ This App scrapes links from various anime streaming websites and displays them i
 * You Android 5.0+
 
 # Download Application
-<a href="https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime3.2.0_Universal.apk"><img src = "http://cata.bestwowaddons.com/wp-content/plugins/wpdm-download-button/images/download_buttons_06.png"/>
+<a href="https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime3.2.1_Universal.apk"><img src = "http://cata.bestwowaddons.com/wp-content/plugins/wpdm-download-button/images/download_buttons_06.png"/>
 
-<a href= "https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime3.2.0_Universal.apk">Download Link <br/>
+<a href= "https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime3.2.1_Universal.apk">Download Link <br/>
 
 # Libraries
 * Google Lean back
