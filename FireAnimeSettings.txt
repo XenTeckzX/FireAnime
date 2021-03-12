@@ -1,1 +1,1 @@
-{"gogoanimeUrl": "https://www.gogoanime.sh/"}
+{"gogoanimeUrl": "https://www.gogoanime.sh/","cloudflarebypass": [{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":true}]}
