@@ -1,1 +1,1 @@
-{"gogoanimeUrl": "https://www1.gogoanime.ai/","cloudflarebypass": [{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":true},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":true}]}
+{"gogoanimeUrl": "https://gogoanime.pe/","cloudflarebypass": [{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":true},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":false},{"bypass":true}]}
