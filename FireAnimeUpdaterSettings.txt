@@ -1,1 +1,1 @@
-{"appVersion":"3.2.3.1", "appDownloadLink":"https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime3.2.3.1_Universal.apk"}
+{"appVersion":"3.2.4", "appDownloadLink":"https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime3.2.4_Universal.apk"}
