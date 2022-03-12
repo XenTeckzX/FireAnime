@@ -27,7 +27,6 @@ This App scrapes links from various anime streaming websites and displays them i
 # Download Application
 * Go to Releases
 
-<a href= "https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime3.2.3.1_Universal.apk">Download Link <br/>
 
 # Libraries
 * Google Lean back
